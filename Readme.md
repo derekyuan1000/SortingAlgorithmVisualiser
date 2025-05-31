@@ -23,7 +23,7 @@ A web-based interactive visualizer for popular sorting algorithms, built with Re
 ## Usage
 
 1. **Website**  
-    Visit the website at [sorting-visualizer.com](https://sorting-visualizer.com) to use the visualizer directly.
+    Visit the website at [SortingAlgorithmVisualiserX](https://sortingalgorithmvisualiserx.netlify.app)) to use the visualizer directly.
 
 ## Controls
 
