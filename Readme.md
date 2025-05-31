@@ -43,5 +43,5 @@ A web-based interactive visualizer for popular sorting algorithms, built with Re
 
 ## License
 
-MIT License
+[MIT Licence](Licence)
 
